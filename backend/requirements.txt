@@ -10,4 +10,11 @@ pytest
 httpx
 sentence-transformers
 pypdf
-gunicorn
+openai
+azure-search-documents
+azure-core
+azure-ai-documentintelligence
+azure-storage-blob
+pyarrow
+azure-ai-textanalytics
+
